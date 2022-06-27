@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-27T22:27:11 IST" name="Default suite" finished-at="2022-06-27T22:27:51 IST" duration-ms="39999">
+    <groups>
+    </groups>
+    <test started-at="2022-06-27T22:27:11 IST" name="Default test" finished-at="2022-06-27T22:27:51 IST" duration-ms="39999">
+      <class name="Test.testOne">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.testOne@52af26ee]" started-at="2022-06-27T22:27:11 IST" name="setup" finished-at="2022-06-27T22:27:26 IST" duration-ms="15482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="hitWebsite()[pri:1, instance:Test.testOne@52af26ee]" started-at="2022-06-27T22:27:27 IST" name="hitWebsite" finished-at="2022-06-27T22:27:51 IST" duration-ms="24212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hitWebsite -->
+        <test-method signature="checkFormText()[pri:2, instance:Test.testOne@52af26ee]" started-at="2022-06-27T22:27:51 IST" name="checkFormText" finished-at="2022-06-27T22:27:51 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFormText -->
+        <test-method signature="checkAlertsText()[pri:3, instance:Test.testOne@52af26ee]" started-at="2022-06-27T22:27:51 IST" name="checkAlertsText" finished-at="2022-06-27T22:27:51 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAlertsText -->
+        <test-method signature="checkWidgetsText()[pri:4, instance:Test.testOne@52af26ee]" started-at="2022-06-27T22:27:51 IST" name="checkWidgetsText" finished-at="2022-06-27T22:27:51 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkWidgetsText -->
+        <test-method signature="checkInteractionsText()[pri:5, instance:Test.testOne@52af26ee]" started-at="2022-06-27T22:27:51 IST" name="checkInteractionsText" finished-at="2022-06-27T22:27:51 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInteractionsText -->
+      </class> <!-- Test.testOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
