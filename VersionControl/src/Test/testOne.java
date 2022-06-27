@@ -62,7 +62,7 @@ public class testOne {
 	}	
 	
 	@Test(priority=6)
-	public void closeWebsite() {
+	public void closeBrowser() {
 		
 		driver.quit();
 		
